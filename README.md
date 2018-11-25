@@ -1,33 +1,10 @@
-
-
-
-<!----- Conversion time: 1.546 seconds.
-
-
-Using this Markdown file:
-
-1. Cut and paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* GD2md-html version 1.0β13
-* Sun Nov 25 2018 06:53:06 GMT-0800 (PST)
-* Source doc: https://docs.google.com/open?id=1FVvoSY35YD4BfAkv-XYGRITFbE17pA7A-R6S76UVsBQ
------>
-
-
-[<<Вернуться к Omega's Blog](http://omega-it.blogspot.com/2008/07/i.html)                                                                   [Матрица компетентности программиста ч.II.>>](https://docs.google.com/document/d/1tRkQMMI--Q0Du6naOthzaqCQBs8wQ6iSLOIeseA6W4w/pub)
+                                                                   [Матрица компетентности программиста ч.II.>>](https://docs.google.com/document/d/1tRkQMMI--Q0Du6naOthzaqCQBs8wQ6iSLOIeseA6W4w/pub)
 
  
 
 **Матрица компетентности программиста ч.I.**
 
 ** **
-
-
 <table>
   <tr>
    <td><strong>Область</strong>
@@ -354,13 +331,5 @@ _Замечание 2:_
 
 Вторая, еще более содержательная часть таблицы - **[Матрица компетентности программиста ч.II.>>](https://docs.google.com/document/d/1tRkQMMI--Q0Du6naOthzaqCQBs8wQ6iSLOIeseA6W4w/pub)**
 
-[ ](http://omega-it.blogspot.com/2008/07/i.html)
-
- 
-
 <p style="text-align: right">
 Английская версия: <a href="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm">Programmer Competency Matrix</a>.</p>
-
-
-
-<!-- GD2md-html version 1.0β13 -->
