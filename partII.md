@@ -263,6 +263,7 @@ Powershell.
    <td>
 <img src="1001354127.jpg" width="">
 <p>
+<br>
 Серии книг
 <p>
 <a href="http://www.ozon.ru/?context=search&group=div_book&text=%ef%f0%ee%e3%f0%e0%ec%ec%e8%f0%ee%e2%e0%ed%e8%e5+%e4%eb%ff+%f7%e0%e9%ed%e8%ea%ee%e2&partner=omega-it">"... за 21 день"</a>
@@ -273,11 +274,9 @@ Powershell.
    </td>
    <td>
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/-1.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-<img src="images/-1.jpg" width="" alt="alt_text" title="image_tooltip">
-
+<img src="1001969331.jpg" width="">
+<br>
 <p>
 <a href="http://www.ozon.ru/context/detail/id/5508646/?partner=omega-it">Совершенный код</a>
 <p>
@@ -291,12 +290,10 @@ Powershell.
    </td>
    <td>
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/-2.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/-2.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="1000234826.jpg" width="">
 
 <p>
+<br>
 <a href="http://www.ozon.ru/context/detail/id/2338486/?partner=omega-it">Человеческий фактор: успешные проекты и команды</a>
 <p>
 <a href="http://www.ozon.ru/context/detail/id/20216992/?partner=omega-it">Приемы объектно-ориентиро-ванного проектирования. Паттерны проектирования</a>
@@ -319,12 +316,10 @@ Powershell.
    </td>
    <td>
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/-3.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/-3.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="1000043489.jpg" width="">
 
 <p>
+<br>
 <a href="http://www.ozon.ru/context/detail/id/1335648/?partner=omega-it">Искусство программирования</a>
 <p>
 <a href="http://www.ozon.ru/context/detail/id/5322055/?partner=omega-it">Структура и интерпретация компьютерных программ</a>
