@@ -261,7 +261,7 @@ Powershell.
    <td><strong>Книги</strong>
    </td>
    <td>
-<img src="1001354127.jpg" width="">
+<img src="1001354127.jpg" height="147px">
 <p>
 <br>
 Серии книг
@@ -275,7 +275,7 @@ Powershell.
    <td>
 
 
-<img src="1001969331.jpg" width="">
+<img src="1001969331.jpg" height="147px">
 <br>
 <p>
 <a href="http://www.ozon.ru/context/detail/id/5508646/?partner=omega-it">Совершенный код</a>
@@ -290,7 +290,7 @@ Powershell.
    </td>
    <td>
 
-<img src="1000234826.jpg" width="">
+<img src="1000234826.jpg" height="147px">
 
 <p>
 <br>
@@ -316,7 +316,7 @@ Powershell.
    </td>
    <td>
 
-<img src="1000043489.jpg" width="">
+<img src="1000043489.jpg"  height="147px">
 
 <p>
 <br>
@@ -340,8 +340,6 @@ Powershell.
 <p>
 <a href="http://www.amazon.com/Little-Schemer-Daniel-P-Friedman/dp/0262560992/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1216551749&sr=1-1">Little Schemer</a>
    </td>
-   <td> 
-   </td>
   </tr>
   <tr>
    <td><strong>Блоги</strong>
@@ -356,3 +354,23 @@ Powershell.
    </td>
   </tr>
 </table>
+
+
+
+<p style="text-align: right">
+<strong> </strong></p>
+
+_Замечание 1:_
+
+Каждый следующий уровень включает в себя предыдущий , т.е. разработчик находящийся на уровне 3 должен удовлетворять критериям двух предыдущих уровней.
+
+_Замечание 2:_
+
+Версия документа от 17.05.2013. О дополнениях, ошибках  сообщайте в issues. Спасибо всем, кто помог сделать этот документ лучше!
+
+_Замечание 3:_
+
+Английская версия: [Programmer Competency Matrix](http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm)
+
+Первая, более теоретическая часть таблицы - **[Матрица компетентности программиста ч.I.>>](README.md)**
+
