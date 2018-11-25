@@ -339,7 +339,7 @@ _Замечание 2:_
 
 _Замечание 3:_
 
-Английская версия: [Programmer Competency Matrix](http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm)
+Эта перевод английской версии: [Programmer Competency Matrix](http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm)
 
 Первая, более теоретическая часть таблицы - **[Матрица компетентности программиста ч.I.>>](README.md)**
 
