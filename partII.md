@@ -261,52 +261,52 @@ Powershell.
 </td>
 <td>
 <img src="1001354127.jpg" height="147px">
-<br>
+<br><br>
 Серии книг
-<br>
+<br><br>
 <a href="http://www.ozon.ru/?context=search&group=div_book&text=%ef%f0%ee%e3%f0%e0%ec%ec%e8%f0%ee%e2%e0%ed%e8%e5+%e4%eb%ff+%f7%e0%e9%ed%e8%ea%ee%e2&partner=omega-it">"... за 21 день"</a>
-<br>
+<br><br>
 <a href="http://www.ozon.ru/?context=search&group=div_book&text=%ef%f0%ee%e3%f0%e0%ec%ec%e8%f0%ee%e2%e0%ed%e8%e5+%e4%eb%ff+%f7%e0%e9%ed%e8%ea%ee%e2&partner=omega-it">"... за 24 часа"</a>
-<br>
+<br><br>
 <a href="http://www.ozon.ru/?context=search&group=div_book&text=%ef%f0%ee%e3%f0%e0%ec%ec%e8%f0%ee%e2%e0%ed%e8%e5+%e4%eb%ff+%f7%e0%e9%ed%e8%ea%ee%e2&partner=omega-it">"... для чайников"</a>.
 </td>
 <td>
 <img src="1001969331.jpg" height="147px">
-<br>
+<br><br>
 <a href="http://www.ozon.ru/context/detail/id/5508646/?partner=omega-it">Совершенный код</a>
-<br>
+<br><br>
 <a href="http://www.ozon.ru/context/detail/id/3795618/?partner=omega-it">Не заставляйте меня думать!</a>
-<br>
+<br><br>
 <a href="http://www.ozon.ru/context/detail/id/4066500/?partner=omega-it">Регулярные выражения</a>
 </td>
 <td>
 <img src="1000234826.jpg" height="147px">
-<br>
+<br><br>
 <a href="http://www.ozon.ru/context/detail/id/2338486/?partner=omega-it">Человеческий фактор: успешные проекты и команды</a>
-<br>
+<br><br>
 <a href="http://www.ozon.ru/context/detail/id/20216992/?partner=omega-it">Приемы объектно-ориентиро-ванного проектирования. Паттерны проектирования</a>
-<br>
+<br><br>
 <a href="http://www.ozon.ru/context/detail/id/19435989/?partner=omega-it">Жемчужины проектирования</a>
-<br>
+<br><br>
 <a href="http://www.ozon.ru/context/detail/id/6290126/?partner=omega-it">Руководство по разработке алгоритмов</a>
-<br>
+<br><br>
 <a href="http://www.ozon.ru/context/detail/id/3353337/?partner=omega-it">Программист-прагматик</a>
-<br>
+<br><br>
 <a href="http://www.ozon.ru/context/detail/id/83760/">Мифический человеко - месяц</a>
 </td>
 <td>
 <img src="1000043489.jpg"  height="147px">
-<br>
+<br><br>
 <a href="http://www.ozon.ru/context/detail/id/1335648/?partner=omega-it">Искусство программирования</a>
-<br>
+<br><br>
 <a href="http://www.ozon.ru/context/detail/id/5322055/?partner=omega-it">Структура и интерпретация компьютерных программ</a>
-<br>
+<br><br>
 <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.ozon.ru%2Fcontext%2Fdetail%2Fid%2F1829832%2F%3Fpartner%3Domega-it&sa=D&sntz=1&usg=AFQjCNH-gRS0zAu5vomJrL7qpr0HUCpWhw">Concepts Techniques and    Models of Computer Programming</a>
-<br>
+<br><br>
 <a href="http://www.ozon.ru/context/detail/id/1829471/?partner=omega-it">Database systems , by C. J Date</a>
-<br>
+<br><br>
 <a href="http://www.amazon.com/Thinking-Forth-Leo-Brodie/dp/0976458705/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1216551535&sr=1-1">Thinking Forth</a>
-<br>
+<br><br>
 <a href="http://www.amazon.com/Little-Schemer-Daniel-P-Friedman/dp/0262560992/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1216551749&sr=1-1">Little Schemer</a>
    </td>
   </tr>
