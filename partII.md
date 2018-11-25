@@ -1,4 +1,4 @@
-**Матрица компетентности программиста ч.II.**
+**Матрица компетентности программиста ч.II.**
 
 <table>
   <tr>
@@ -261,12 +261,7 @@ Powershell.
    <td><strong>Книги</strong>
    </td>
    <td>
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/-0.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/-0.jpg" width="" alt="alt_text" title="image_tooltip">
-
+![Для чайников](1001354127.jpg)
 <p>
 Серии книг
 <p>
