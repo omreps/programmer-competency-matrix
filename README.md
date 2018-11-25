@@ -1,7 +1,7 @@
                                                                    
 **Матрица компетентности программиста ч.I.**
 
-<table style="width:24%;">
+<table>
   <tr>
    <td><strong>Область</strong>
    </td>
