@@ -283,6 +283,7 @@ _Замечание 2:_
 Версия документа от 17.05.2013. О дополнениях, ошибках  сообщайте в issues. Спасибо всем, кто помог сделать этот документ лучше!
 
 _Замечание 3:_
+
 Английская версия: [Programmer Competency Matrix](http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm)
 
 Вторая, еще более содержательная часть таблицы - **[Матрица компетентности программиста ч.II.>>](https://docs.google.com/document/d/1tRkQMMI--Q0Du6naOthzaqCQBs8wQ6iSLOIeseA6W4w/pub)**
