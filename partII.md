@@ -261,7 +261,7 @@ Powershell.
    <td><strong>Книги</strong>
    </td>
    <td>
-![Для чайников](1001354127.jpg)
+<img src="1001354127.jpg" width="">
 <p>
 Серии книг
 <p>
